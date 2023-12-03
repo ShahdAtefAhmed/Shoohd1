@@ -1,0 +1,115 @@
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\HomePage.g.cs
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.cache
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.lref
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe.config
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.pdb
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\HomePage.baml
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.g.resources
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.Properties.Resources.resources
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.exe
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.pdb
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.g.cs
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.baml
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe.config
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.pdb
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\HomePage.g.cs
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.g.cs
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.cache
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.lref
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\HomePage.baml
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.baml
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.g.resources
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.Properties.Resources.resources
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.exe
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.pdb
+C:\Users\IT\Desktop\Empolyee_System\Empolyee_System\obj\Debug\App.baml
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe.config
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.pdb
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\HomePage.g.cs
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.g.cs
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.cache
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.lref
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\App.baml
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\HomePage.baml
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.baml
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.g.resources
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.Properties.Resources.resources
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.exe
+C:\Users\IT\Desktop\Disktop systems using WPF\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.pdb
+F:\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe.config
+F:\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe
+F:\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.pdb
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.AssemblyReference.cache
+F:\Empolyee_System\Empolyee_System\obj\Debug\HomePage.g.cs
+F:\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.g.cs
+F:\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.g.cs
+F:\Empolyee_System\Empolyee_System\obj\Debug\App.g.cs
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.cache
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.lref
+F:\Empolyee_System\Empolyee_System\obj\Debug\App.baml
+F:\Empolyee_System\Empolyee_System\obj\Debug\HomePage.baml
+F:\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.baml
+F:\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.baml
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.g.resources
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.Properties.Resources.resources
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.GenerateResource.cache
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.CoreCompileInputs.cache
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.exe
+F:\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.pdb
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\App.baml
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\LoginPage.g.cs
+C:\Users\HP\Desktop\Empolyee_System\Empolyee_System\obj\Debug\LoginPage.baml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe.config
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.exe
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\Empolyee_System.pdb
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\HomePage.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\LoginPage.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.cache
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_MarkupCompile.lref
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\App.baml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\HomePage.baml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\LoginPage.baml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\ReportPage.baml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.g.resources
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.Properties.Resources.resources
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.exe
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.pdb
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System_Content.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\Empolyee_System.csproj.CopyComplete
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\ModifyPage.g.cs
+C:\Users\IT\Desktop\Projectt\Empolyee_System\Empolyee_System\obj\Debug\ModifyPage.baml
